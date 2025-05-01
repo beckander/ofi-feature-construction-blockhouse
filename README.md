@@ -1,4 +1,4 @@
-# OFI Feature Construction – Blockhouse Technical Case Study
+# OFI Feature Construction – Blockhouse Interview
 
 This repository contains my implementation of a case study task involving Order Flow Imbalance (OFI) signal construction from limit order book (LOB) data.
 
