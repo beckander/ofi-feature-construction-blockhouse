@@ -17,3 +17,5 @@ This repository contains my implementation of a case study task involving Order 
 ## Notes
 
 The provided dataset included only a single asset (`AAPL`). To demonstrate the cross-asset regression pipeline, I generated synthetic additional assets (`FAKE1`, `FAKE2`) by duplicating the AAPL order book data. The code automatically exits that step if true multi-asset data is unavailable within the given dataset.
+
+Anderson Beck
